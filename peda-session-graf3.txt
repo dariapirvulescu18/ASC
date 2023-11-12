@@ -1,0 +1,4 @@
+break citire_cerinta
+break cerinta3
+break et_exit
+
